@@ -4,9 +4,36 @@
   
     
     <entry>
+      <title>DFS合集</title>
+      <link href="2020/12/25/DFS/"/>
+      <url>2020/12/25/DFS/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Algorithms </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> leetCode </tag>
+            
+            <tag> DFS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BFS合集</title>
-      <link href="2020/12/25/algorithms/"/>
-      <url>2020/12/25/algorithms/</url>
+      <link href="2020/12/25/BFS/"/>
+      <url>2020/12/25/BFS/</url>
       
         <content type="html"><![CDATA[]]></content>
       
