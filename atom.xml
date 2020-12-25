@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://xiao-aboy.github.io.git/atom.xml" rel="self"/>
+  <link href="https://xiao-aboy.github.io/atom.xml" rel="self"/>
   
-  <link href="https://xiao-aboy.github.io.git/"/>
+  <link href="https://xiao-aboy.github.io/"/>
   <updated>2020-12-24T14:10:11.774Z</updated>
-  <id>https://xiao-aboy.github.io.git/</id>
+  <id>https://xiao-aboy.github.io/</id>
   
   <author>
     <name>LiuXiao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xiao-aboy.github.io.git/2020/12/24/hello-world/"/>
-    <id>https://xiao-aboy.github.io.git/2020/12/24/hello-world/</id>
+    <link href="https://xiao-aboy.github.io/2020/12/24/hello-world/"/>
+    <id>https://xiao-aboy.github.io/2020/12/24/hello-world/</id>
     <published>2020-12-24T14:10:11.774Z</published>
     <updated>2020-12-24T14:10:11.774Z</updated>
     
