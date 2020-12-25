@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://xiao-aboy.github.io.git/atom.xml" rel="self"/>
+  
+  <link href="https://xiao-aboy.github.io.git/"/>
+  <updated>2020-12-24T14:10:11.774Z</updated>
+  <id>https://xiao-aboy.github.io.git/</id>
+  
+  <author>
+    <name>LiuXiao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xiao-aboy.github.io.git/2020/12/24/hello-world/"/>
+    <id>https://xiao-aboy.github.io.git/2020/12/24/hello-world/</id>
+    <published>2020-12-24T14:10:11.774Z</published>
+    <updated>2020-12-24T14:10:11.774Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
